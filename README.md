@@ -138,7 +138,3 @@ Si deseas mejorarlo, puedes hacer un Pull Request.
 ---
 
 ¡Esperamos ver tu aporte y estilo personal en este proyecto! 🎉
-
-```
-
-```
